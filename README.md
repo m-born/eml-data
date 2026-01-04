@@ -1,4 +1,5 @@
-Data for the Economic Media Lab website. 
+Data for the Economic Media Lab website.
+
 Folder and filetype structure: 
 
 * ``md`` <- MD files
