@@ -1,7 +1,7 @@
 Data for the Economic Media Lab website. 
-Folder structure: 
+Folder and filetype structure: 
 
-* ``data``
-  * ``md`` <- MD files
-  * ``html`` <- HTML files
-  * ``attachments`` <- PDFs, videos, …
+* ``md`` <- MD files
+* ``html`` <- HTML files
+* ``attachments`` <- PDFs, videos, …
+* …
