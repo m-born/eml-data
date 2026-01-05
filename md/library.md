@@ -1,3 +1,3 @@
 # Library
 
-Coming soon.
+[List of Texts](library-list-of-texts)
