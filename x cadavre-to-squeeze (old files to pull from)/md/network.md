@@ -4,5 +4,5 @@
 [Taidekoulu Maa](taidekoulu-maa.md)
 [Scott Morris](scott-morris.md)
 [Stephen Demeulenaere](stephen-demeulenaere.md)
-[Economic Space Agency](ecsa.md)
+[Economic Space Agency](-o-ecsa.md)
 [Crypto Leftists](crypto-leftists.md)

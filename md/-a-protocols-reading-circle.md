@@ -2,5 +2,5 @@
 Collective reading of ECSA's *Protocols for Postcapitalist Expression*.
 
 #### Partners
-[Economic Space Agency](ecsa.md)
-[Crypto Leftists](crypto-leftists.md)
+Co-organisers: [Crypto Leftists](crypto-leftists.md)
+Book author: [Economic Space Agency](-o-ecsa.md)

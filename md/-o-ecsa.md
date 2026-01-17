@@ -3,5 +3,5 @@
 [economicspace.agency](https://economicspace.agency)
 
 #### Activities
-Reading circle [Protocols for Postcapitalist Expression](protocols-reading-circle.md)
+Reading circle [Protocols for Postcapitalist Expression](-a-protocols-reading-circle.md)
 EML at [Käänne 2026](kaanne-2026.md)
