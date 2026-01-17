@@ -1,4 +1,4 @@
-# Reading group *Protocols for Postcapitalist Expression*
+# Protocols for Postcapitalist Expression
 
 Collective reading of ECSA's *Protocols for Postcapitalist Expression*.
 ![[ecsa-protocols.png]]

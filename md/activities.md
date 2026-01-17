@@ -4,6 +4,9 @@ We are currently in the process of shaping our initial activity arc(s) that will
 
 In the meantime, we're busy with the following thins:
 
-Sunday, 18 January 2026: [Workshop *Sculpting Economies* at Käänne Festival](-a-sculpting-economies.md)
-In planning: [Reading group *Protocols of Postcapitalist Expression*](-a-protocols-reading-group.md)
-Thinking project: [Visual cultures of economic agency](-a-visual-cultures-of-economic-agency.md)
+#### Upcoming
+**Sunday, 18 Jan 2026** — Workshop [Sculpting Economies](-a-sculpting-economies.md) at Käänne Festival, Helsinki FI
+**Thursday, 22 Jan 2026** — Conversation [Designable Economies](-a-designable-economies) at Studio Redukt, Helsinki FI
+#### In preparation
+Reading group [Protocols of Postcapitalist Expression](-a-protocols-reading-group.md)
+Thinking project [Visual cultures of economic agency](-a-visual-cultures-of-economic-agency.md)

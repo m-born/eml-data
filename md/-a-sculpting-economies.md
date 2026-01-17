@@ -1,7 +1,7 @@
 # Sculpting Economies: an Economic Media Lab
 
-Workshop at [Käänne Festival for Politics and Culture](-p-kaanne-festival.md).
-Sunday, 18 January 2026.
+Workshop at [Käänne Festival for Politics and Culture](-p-kaanne-festival.md)
+Sunday, 18 January 2026, 13‒15:00
 
 ![[sculpting-economies.jpg]]
 
