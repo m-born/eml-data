@@ -1,14 +1,13 @@
 # Designable Economies
 
-Talk and conversation at Studio Redukt
+Talk and conversation at Studio_Redukt, Helsinki FI
+Part of *On the Urgency to reIMAGINE, reCLAIM, and reSTRUCTURE*
 Thursday, 22 January 2026, 17‒19:00
 
 ![[a4ct.jpg]]
 
-Thursday 22 Jan
-17:00 - 19:00
-
-Presentation II Public RSVP
+#### Link
+https://artivism4ct.cargo.site/redukt_studio_programme
 
 #### Description
 Capitalist core economics, through its networks of state, legal, academic, commercial, and media institutions, has made us treat "The Economy" as if it were a fixed, natural object. This session challenges that economic realism, showing that economies have always been made and have always been societal self-expressions. In a conversational format, the Economic Media Lab will introduce its core ideas and invite participants to collectively map questions and desires toward the making of economies in a pluri-nodal, pluri-local, pluri-practical, and popular endeavour.

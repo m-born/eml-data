@@ -6,7 +6,7 @@ In the meantime, we're busy with the following things:
 
 #### Upcoming
 **Sunday, 18 Jan 2026** — Workshop [Sculpting Economies](-a-sculpting-economies.md) at Käänne Festival, Helsinki FI
-**Thursday, 22 Jan 2026** — Conversation [Designable Economies](-a-designable-economies) at Studio Redukt, Helsinki FI
+**Thursday, 22 Jan 2026** — Conversation [Designable Economies](-a-designable-economies.md) at Studio Redukt, Helsinki FI
 
 #### In preparation
 Reading group [Protocols of Postcapitalist Expression](-a-protocols-reading-group.md)
