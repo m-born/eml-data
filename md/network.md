@@ -6,3 +6,5 @@ Folks and orgs we're working with:
 [Economic Space Agency](-p-ecsa.md)
 [Crypto Leftists](-p-crypto-leftists.md)
 [Käänne Festival for Politics and Culture](https://kaannefestival.fi/en)
+Commentator: [Jussi Parikka](-p-jussi-parikka)
+Commentator: [Anni Pokela](https://www.annipokela.com/)
