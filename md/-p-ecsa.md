@@ -1,8 +1,7 @@
 # Economic Space Agency
 
-#### Activities
-Reading circle [Protocols for Postcapitalist Expression](-a-protocols-reading-circle.md)
-EML at [Käänne 2026](-a-kaanne2026-sculpting-economies)
+#### Joint activities
+[Protocols for Postcapitalist Expression](-a-protocols-reading-circle.md)
 
-#### Links
+#### Link
 [economicspace.agency](https://economicspace.agency)

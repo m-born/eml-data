@@ -4,6 +4,6 @@ We are currently in the process of shaping our initial activity arc(s) that will
 
 In the meantime, we're busy with the following thins:
 
-Sunday, 18 January 2026: [Workshop *Sculpting Economies* at Käänne Festival](-a-kaanne2026-sculpting-economies.md)
+Sunday, 18 January 2026: [Workshop *Sculpting Economies* at Käänne Festival](-a-sculpting-economies.md)
 In planning: [Reading group *Protocols of Postcapitalist Expression*](-a-protocols-reading-circle.md)
 Thinking project: [Visual cultures of economic agency](visual-cultures-of-economic-agency.html)
