@@ -11,3 +11,6 @@ In the meantime, find us in the following things:
 #### In preparation
 Reading group [Protocols of Postcapitalist Expression](-a-protocols-reading-group.md)
 Thinking project [Visual cultures of economic agency](-a-visual-cultures-of-economic-agency.md)
+
+#### Past
+**Tuesday 9 December 2025** — Community call [Making economies](-a-cc-making-economies.md)

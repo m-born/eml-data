@@ -9,4 +9,4 @@ TBA: Reading circle [Protocols for Postcapitalist Expression](-a-protocols-readi
 TBA: Presentation [Pathways to Regeneration](pres-pathways.md)
 2026-01-23: Talk and conversation [Studio Redukt](studio-redukt.md)
 2025-01-18: EML at [Käänne 2026](kaanne-2026.md)
-2025-12-09: Community call [Making economies](cc-making-economies.md)
+2025-12-09: Community call [Making economies](-a-cc-making-economies.md)

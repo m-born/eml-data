@@ -3,7 +3,7 @@ This is our first arc of activities, which focuses of mapping the pluriverse of 
 
 #### Activities
 Presentation [Pathways to Regeneration](pres-pathways.md)
-Community call [Making economies](cc-making-economies.md)
+Community call [Making economies](-a-cc-making-economies.md)
 
 #### Partners
 [Scott Morris](scott-morris.md)
