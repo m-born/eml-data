@@ -1,4 +1,4 @@
 # Updates
 
-- **Sun 18 Jan: workshop "Sculpting Economies"** — On Sunday, 18 Jan, we'll be hosting the workshop [Sculpting Economies](-a-sculpting-economies.md) as part of the Finnish Left Alliance's [Käänne Festival for Politics and Culture](-p-kaanne-festival.md). [2026-01-17]
-- **Website** — If you see this, our new website is up and well. We will build contents and squat bugs in the coming time. Please allow that during this period you may still encounter bugs, dead links and similar nuisances. [2026-01-05]
+- **Sun 18 Jan: workshop "Sculpting Economies"** — On Sunday, 18 Jan, we will be hosting the workshop [Sculpting Economies](-a-sculpting-economies.md) as part of the Finnish Left Alliance's [Käänne Festival for Politics and Culture](-p-kaanne-festival.md). The workshop will start at 13:00 and take place in Korjaamo's *Rune* space.[2026-01-17]
+- **Website** — If you see this, our new website is up and well. We will be pushing contents and squat bugs in the coming weeks. Permit please that during this period you may still encounter bugs, dead links and similar, hopefully minor nuisances. If anything major seems to be broken, please mail us at economicmedialab@proton.me. [2026-01-05]
