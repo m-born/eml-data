@@ -1,8 +1,8 @@
 # About
 The Economic Media Lab promotes the actualisation of postcapital network economies.
 
-The EML curates, develops and produces [activities](activities.md) that promote creative and technical experimentation and development, and further public and specialist literacy and discourse. The Lab supports economic design work as well as policy advice.
+We are a community endeavour curating, developing and producing [activities](activities.md) that promote other economic literacy at a popular level, support creative experimentation and technical development, and inform policy. Additionally, the Lab consults in economic design work.
 
-The EML maintains the [EML Library](library.md), and provisions [infrastructure components](-a-provisioning.md) to support the forming of a commons of other-economic knowledge and practice.
+We maintain the [EML Library](library.md), and endeavour to provision [infrastructure components](-a-provisioning.md) that support the forming of a commons of other-economic knowledge and practice.
 
 We work to base all our operations based on a privacy-respecting, preferably FLOSS [software stack](software-stack.html).
