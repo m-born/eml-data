@@ -1,5 +1,4 @@
 # Activities
-
 We are currently in the process of shaping our initial activity arc(s) that will serve as a thematically focusing framework. Its/their points of emphases will be developed by deliberation with the EML community on our Signal chat and possible further, dedicated calls. 
 
 In the meantime, find us in the following things:
