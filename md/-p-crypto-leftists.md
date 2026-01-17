@@ -4,4 +4,4 @@
 [Protocols for Postcapitalist Expression](-a-protocols-reading-circle.md)
 
 #### Link
-https://cryptoleftists.xyz/
+[cryptoleftists.xyz](https://cryptoleftists.xyz/)

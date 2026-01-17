@@ -1,7 +1,7 @@
 # Käänne Festival for Politics and Culture
 
 #### Joint activities
-[Sculpting Economies](-a-sculpting-economies)
+[Sculpting Economies](-a-sculpting-economies.md)
 
 #### Link
-https://kaannefestival.fi/en
+[kaannefestival.fi](https://kaannefestival.fi)

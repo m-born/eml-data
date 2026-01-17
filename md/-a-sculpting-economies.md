@@ -3,5 +3,5 @@
 Sunday, 18 January 2026
 
 #### Partners
-Co-organisers: [Economic Space Agency](https://economicspace.agency)
-Host: [Käänne Festival](-p-kaanne-festival.md)
+[Economic Space Agency](-p-ecsa.md)
+[Käänne Festival](-p-kaanne-festival.md)
