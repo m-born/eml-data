@@ -1,7 +1,7 @@
 # Reading circle *Protocols for Postcapitalist Expression*
 
-![[ecsa-protocols.png]]
 Collective reading of ECSA's *Protocols for Postcapitalist Expression*.
+![[ecsa-protocols.png]]
 
 #### Partners
 [Crypto Leftists](-p-crypto-leftists.md)
