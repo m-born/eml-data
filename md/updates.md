@@ -1,4 +1,4 @@
 # Updates
-
+---
 - **Sun 18 Jan: Workshop "Sculpting Economies"** — On Sunday 18 January, we will be hosting the workshop [Sculpting Economies](-a-sculpting-economies.md) as part of the Finnish Left Alliance's [Käänne Festival for Politics and Culture](-p-kaanne-festival.md). The workshop will start at 13:00 in Korjaamo's *Rune* space. [2026-01-17]
 - **Website** — If you see this, our new website is up and well. We will be pushing contents and squat bugs in the coming weeks. Permit please that during this period you may still encounter bugs, dead links and similar, hopefully minor nuisances. If anything major seems to be broken, please email us. [2026-01-05]
